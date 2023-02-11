@@ -1,0 +1,9 @@
+[submodule "src/reachy_moveit/deps/reachy_lib"]
+	path = src/reachy_moveit/deps/reachy_lib
+	url = git@gitlab.ical.tw:b1065144/reachy_lib.git
+[submodule "src/reachy_moveit/deps/dynamixel_lib"]
+	path = src/reachy_moveit/deps/dynamixel_lib
+	url = git@gitlab.ical.tw:b1065144/dynamixel_lib.git
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
